@@ -1,0 +1,10 @@
+ros-hydro-door-pass (0.0.1-0precise) precise; urgency=high
+
+  * Added license files
+  * [door_pass] preparing cmake and package file for release
+  * Removed scitos prefix for door_pass and ramp_climb
+  * Contributors: Christian Dondrup
+
+ -- gestom <tkrajnik@lincoln.ac.uk>  Mon, 22 Sep 2014 23:00:00 -0000
+
+
