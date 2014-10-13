@@ -2,6 +2,11 @@
 Changelog for package ramp_climb
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.0.2 (2014-10-13)
+------------------
+* Added initial rotation.
+* Contributors: Tom Krajnik
+
 0.0.1 (2014-09-23)
 ------------------
 * Added license files
