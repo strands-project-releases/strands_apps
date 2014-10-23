@@ -1,0 +1,24 @@
+ros-indigo-reconfigure-inflation (0.0.3-0saucy) saucy; urgency=high
+
+
+
+ -- Nils Bore <nilsbore@gmail.com>  Fri, 17 Oct 2014 23:00:00 -0000
+
+ros-indigo-reconfigure-inflation (0.0.2-0saucy) saucy; urgency=high
+
+
+
+ -- Nils Bore <nilsbore@gmail.com>  Sun, 12 Oct 2014 23:00:00 -0000
+
+ros-indigo-reconfigure-inflation (0.0.1-0saucy) saucy; urgency=high
+
+  * Added license files
+  * Wrong URL
+  * [reconfigure_inflation] Preparing cmake and package file for release
+  * renamed package to get rid of the scitos prefix.
+    None of the other packages seems to use this so no refactoring needed.
+  * Contributors: Christian Dondrup
+
+ -- Nils Bore <nilsbore@gmail.com>  Mon, 22 Sep 2014 23:00:00 -0000
+
+
