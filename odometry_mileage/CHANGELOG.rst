@@ -2,6 +2,9 @@
 Changelog for package odometry_mileage
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.0.6 (2014-11-06)
+------------------
+
 0.0.5 (2014-11-04)
 ------------------
 * [odometry_mileage] making it robot independent and prepared for release
