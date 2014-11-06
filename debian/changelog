@@ -1,0 +1,50 @@
+ros-indigo-pose-extractor (0.0.7-0trusty) trusty; urgency=high
+
+
+
+ -- Christian Dondrup <cdondrup@lincoln.ac.uk>  Thu, 06 Nov 2014 00:00:00 -0000
+
+ros-indigo-pose-extractor (0.0.6-0trusty) trusty; urgency=high
+
+
+
+ -- Christian Dondrup <cdondrup@lincoln.ac.uk>  Thu, 06 Nov 2014 00:00:00 -0000
+
+ros-indigo-pose-extractor (0.0.5-0trusty) trusty; urgency=high
+
+
+
+ -- Christian Dondrup <cdondrup@lincoln.ac.uk>  Tue, 04 Nov 2014 00:00:00 -0000
+
+ros-indigo-pose-extractor (0.0.4-0trusty) trusty; urgency=high
+
+
+
+ -- Christian Dondrup <cdondrup@lincoln.ac.uk>  Thu, 30 Oct 2014 00:00:00 -0000
+
+ros-indigo-pose-extractor (0.0.3-0trusty) trusty; urgency=high
+
+  * Adjusted version to match the version number of the other packages.
+  * Created changelog
+  * Prepared for release
+  * Recreated directory
+  * Contributors: Christian Dondrup
+  * Prepared for release
+  * Recreated directory
+  * Contributors: Christian Dondrup
+
+ -- Christian Dondrup <cdondrup@lincoln.ac.uk>  Fri, 17 Oct 2014 23:00:00 -0000
+
+ros-indigo-pose-extractor (0.0.2-0trusty) trusty; urgency=high
+
+
+
+ -- Christian Dondrup <cdondrup@lincoln.ac.uk>  Sun, 12 Oct 2014 23:00:00 -0000
+
+ros-indigo-pose-extractor (0.0.1-0trusty) trusty; urgency=high
+
+
+
+ -- Christian Dondrup <cdondrup@lincoln.ac.uk>  Mon, 22 Sep 2014 23:00:00 -0000
+
+
