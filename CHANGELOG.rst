@@ -2,6 +2,12 @@
 Changelog for package ramp_climb
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.0.8 (2014-11-08)
+------------------
+* final and tested version of loader
+* new machine tags
+* Contributors: Jaime Pulido Fentanes
+
 0.0.7 (2014-11-06)
 ------------------
 
