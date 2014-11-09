@@ -2,6 +2,9 @@
 Changelog for package ramp_climb
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.0.9 (2014-11-09)
+------------------
+
 0.0.8 (2014-11-08)
 ------------------
 * final and tested version of loader
