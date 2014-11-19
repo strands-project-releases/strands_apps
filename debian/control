@@ -1,0 +1,12 @@
+Source: ros-hydro-roslaunch-axserver
+Section: misc
+Priority: extra
+Maintainer: Marc Hanheide <marc@hanheide.net>
+Build-Depends: debhelper (>= 9.0.0), ros-hydro-actionlib, ros-hydro-actionlib-msgs, ros-hydro-catkin, ros-hydro-message-generation, ros-hydro-rospy
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-hydro-roslaunch-axserver
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-hydro-actionlib, ros-hydro-actionlib-msgs, ros-hydro-message-runtime, ros-hydro-rospy
+Description: launch other ROS launch files via an actionlib interface
