@@ -1,0 +1,12 @@
+Source: ros-hydro-strands-emails
+Section: misc
+Priority: extra
+Maintainer: Jaime Pulido Fentanes <pulidofentanes@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-hydro-actionlib, ros-hydro-actionlib-msgs, ros-hydro-catkin, ros-hydro-message-generation, ros-hydro-roscpp, ros-hydro-rospy
+Homepage: https://github.com/strands-project/strands_apps
+Standards-Version: 3.9.2
+
+Package: ros-hydro-strands-emails
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-hydro-actionlib, ros-hydro-actionlib-msgs, ros-hydro-roscpp, ros-hydro-rospy
+Description: The strands_emails package
