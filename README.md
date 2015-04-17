@@ -1,4 +1,4 @@
-strands_apps
-============
+### Overview
 
-Project specific apps and tools
+Simple behaviour for passing thorugh narrow doors.
+Just position the robot near to the door and send the monitored nav goal.
