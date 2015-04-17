@@ -1,0 +1,12 @@
+Source: ros-indigo-marathon-reporter
+Section: misc
+Priority: extra
+Maintainer: Chris Burbridge <cburbridge@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-indigo-catkin, ros-indigo-message-generation, ros-indigo-mongodb-store, ros-indigo-nav-msgs, ros-indigo-rospy, ros-indigo-std-msgs
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-indigo-marathon-reporter
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, python-strands-requests, python-yaml, ros-indigo-message-runtime, ros-indigo-mongodb-store, ros-indigo-nav-msgs, ros-indigo-rospy, ros-indigo-std-msgs
+Description: The marathon_reporter package sends mileage and runtime statistics to the STRANDS Robot Marathon server.
