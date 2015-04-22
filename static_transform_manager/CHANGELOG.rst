@@ -2,6 +2,9 @@
 Changelog for package static_transform_manager
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.1.8 (2015-04-22)
+------------------
+
 0.1.7 (2015-04-17)
 ------------------
 * Add is_ok flag to StopTransformation response.
