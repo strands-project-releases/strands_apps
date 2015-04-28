@@ -1,0 +1,107 @@
+ros-indigo-strands-apps (0.1.9-0trusty) trusty; urgency=high
+
+
+
+ -- Christian Dondrup <cdondrup@lincoln.ac.uk>  Tue, 28 Apr 2015 00:00:00 -0000
+
+ros-indigo-strands-apps (0.1.8-0trusty) trusty; urgency=high
+
+
+
+ -- Christian Dondrup <cdondrup@lincoln.ac.uk>  Wed, 22 Apr 2015 00:00:00 -0000
+
+ros-indigo-strands-apps (0.1.7-0trusty) trusty; urgency=high
+
+  * adding error handling and strands emails to metapackage
+  * Contributors: Jailander
+
+ -- Christian Dondrup <cdondrup@lincoln.ac.uk>  Fri, 17 Apr 2015 00:00:00 -0000
+
+ros-indigo-strands-apps (0.1.6-0trusty) trusty; urgency=high
+
+
+
+ -- Christian Dondrup <cdondrup@lincoln.ac.uk>  Sun, 12 Apr 2015 00:00:00 -0000
+
+ros-indigo-strands-apps (0.1.4-0trusty) trusty; urgency=high
+
+
+
+ -- Christian Dondrup <cdondrup@lincoln.ac.uk>  Thu, 19 Mar 2015 00:00:00 -0000
+
+ros-indigo-strands-apps (0.1.3-0trusty) trusty; urgency=high
+
+
+
+ -- Christian Dondrup <cdondrup@lincoln.ac.uk>  Mon, 16 Mar 2015 00:00:00 -0000
+
+ros-indigo-strands-apps (0.1.2-0trusty) trusty; urgency=high
+
+
+
+ -- Christian Dondrup <cdondrup@lincoln.ac.uk>  Thu, 20 Nov 2014 00:00:00 -0000
+
+ros-indigo-strands-apps (0.1.0-0trusty) trusty; urgency=high
+
+
+
+ -- Christian Dondrup <cdondrup@lincoln.ac.uk>  Wed, 19 Nov 2014 00:00:00 -0000
+
+ros-indigo-strands-apps (0.0.9-0trusty) trusty; urgency=high
+
+
+
+ -- Christian Dondrup <cdondrup@lincoln.ac.uk>  Sun, 09 Nov 2014 00:00:00 -0000
+
+ros-indigo-strands-apps (0.0.8-0trusty) trusty; urgency=high
+
+
+
+ -- Christian Dondrup <cdondrup@lincoln.ac.uk>  Sat, 08 Nov 2014 00:00:00 -0000
+
+ros-indigo-strands-apps (0.0.7-0trusty) trusty; urgency=high
+
+  * Created metapackage for easier install
+  * Contributors: Christian Dondrup
+  * Created metapackage for easier install
+  * Contributors: Christian Dondrup
+
+ -- Christian Dondrup <cdondrup@lincoln.ac.uk>  Thu, 06 Nov 2014 00:00:00 -0000
+
+ros-indigo-strands-apps (0.0.6-0trusty) trusty; urgency=high
+
+
+
+ -- Christian Dondrup <cdondrup@lincoln.ac.uk>  Thu, 06 Nov 2014 00:00:00 -0000
+
+ros-indigo-strands-apps (0.0.5-0trusty) trusty; urgency=high
+
+
+
+ -- Christian Dondrup <cdondrup@lincoln.ac.uk>  Tue, 04 Nov 2014 00:00:00 -0000
+
+ros-indigo-strands-apps (0.0.4-0trusty) trusty; urgency=high
+
+
+
+ -- Christian Dondrup <cdondrup@lincoln.ac.uk>  Thu, 30 Oct 2014 00:00:00 -0000
+
+ros-indigo-strands-apps (0.0.3-0trusty) trusty; urgency=high
+
+
+
+ -- Christian Dondrup <cdondrup@lincoln.ac.uk>  Sat, 18 Oct 2014 00:00:00 -0000
+
+ros-indigo-strands-apps (0.0.2-0trusty) trusty; urgency=high
+
+
+
+ -- Christian Dondrup <cdondrup@lincoln.ac.uk>  Mon, 13 Oct 2014 00:00:00 -0000
+
+ros-indigo-strands-apps (0.0.1-0trusty) trusty; urgency=high
+
+
+
+ -- Christian Dondrup <cdondrup@lincoln.ac.uk>  Tue, 23 Sep 2014 00:00:00 -0000
+
+
