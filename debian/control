@@ -1,0 +1,12 @@
+Source: ros-indigo-strands-apps
+Section: misc
+Priority: extra
+Maintainer: Christian Dondrup <cdondrup@lincoln.ac.uk>
+Build-Depends: debhelper (>= 9.0.0), ros-indigo-catkin
+Homepage: http://github.com/strands-project/strands_apps
+Standards-Version: 3.9.2
+
+Package: ros-indigo-strands-apps
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-indigo-door-pass, ros-indigo-marathon-reporter, ros-indigo-odometry-mileage, ros-indigo-pose-extractor, ros-indigo-ramp-climb, ros-indigo-reconfigure-inflation, ros-indigo-roslaunch-axserver, ros-indigo-state-checker, ros-indigo-strands-emails, ros-indigo-topic-republisher
+Description: The strands_apps metapackage
