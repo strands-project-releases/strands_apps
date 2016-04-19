@@ -1,0 +1,134 @@
+ros-indigo-reconfigure-inflation (0.2.1-1trusty) trusty; urgency=high
+
+
+
+ -- Nils Bore <nilsbore@gmail.com>  Tue, 19 Apr 2016 00:00:00 -0000
+
+ros-indigo-reconfigure-inflation (0.2.0-1trusty) trusty; urgency=high
+
+  * 0.1.12
+  * updated changelogs
+  * Contributors: Jenkins
+
+ -- Nils Bore <nilsbore@gmail.com>  Tue, 19 Apr 2016 00:00:00 -0000
+
+ros-indigo-reconfigure-inflation (0.1.12-1trusty) trusty; urgency=high
+
+
+
+ -- Nils Bore <nilsbore@gmail.com>  Tue, 19 Apr 2016 00:00:00 -0000
+
+ros-indigo-reconfigure-inflation (0.1.11-1trusty) trusty; urgency=high
+
+
+
+ -- Nils Bore <nilsbore@gmail.com>  Thu, 14 Apr 2016 00:00:00 -0000
+
+ros-indigo-reconfigure-inflation (0.1.9-1trusty) trusty; urgency=high
+
+
+
+ -- Nils Bore <nilsbore@gmail.com>  Tue, 28 Apr 2015 00:00:00 -0000
+
+ros-indigo-reconfigure-inflation (0.1.8-1trusty) trusty; urgency=high
+
+
+
+ -- Nils Bore <nilsbore@gmail.com>  Wed, 22 Apr 2015 00:00:00 -0000
+
+ros-indigo-reconfigure-inflation (0.1.7-1trusty) trusty; urgency=high
+
+
+
+ -- Nils Bore <nilsbore@gmail.com>  Fri, 17 Apr 2015 00:00:00 -0000
+
+ros-indigo-reconfigure-inflation (0.1.6-1trusty) trusty; urgency=high
+
+
+
+ -- Nils Bore <nilsbore@gmail.com>  Sun, 12 Apr 2015 00:00:00 -0000
+
+ros-indigo-reconfigure-inflation (0.1.4-1trusty) trusty; urgency=high
+
+
+
+ -- Nils Bore <nilsbore@gmail.com>  Thu, 19 Mar 2015 00:00:00 -0000
+
+ros-indigo-reconfigure-inflation (0.1.3-1trusty) trusty; urgency=high
+
+
+
+ -- Nils Bore <nilsbore@gmail.com>  Mon, 16 Mar 2015 00:00:00 -0000
+
+ros-indigo-reconfigure-inflation (0.1.2-1trusty) trusty; urgency=high
+
+
+
+ -- Nils Bore <nilsbore@gmail.com>  Thu, 20 Nov 2014 00:00:00 -0000
+
+ros-indigo-reconfigure-inflation (0.1.0-1trusty) trusty; urgency=high
+
+
+
+ -- Nils Bore <nilsbore@gmail.com>  Wed, 19 Nov 2014 00:00:00 -0000
+
+ros-indigo-reconfigure-inflation (0.0.9-1trusty) trusty; urgency=high
+
+
+
+ -- Nils Bore <nilsbore@gmail.com>  Sun, 09 Nov 2014 00:00:00 -0000
+
+ros-indigo-reconfigure-inflation (0.0.8-1trusty) trusty; urgency=high
+
+
+
+ -- Nils Bore <nilsbore@gmail.com>  Sat, 08 Nov 2014 00:00:00 -0000
+
+ros-indigo-reconfigure-inflation (0.0.7-1trusty) trusty; urgency=high
+
+
+
+ -- Nils Bore <nilsbore@gmail.com>  Thu, 06 Nov 2014 00:00:00 -0000
+
+ros-indigo-reconfigure-inflation (0.0.6-1trusty) trusty; urgency=high
+
+
+
+ -- Nils Bore <nilsbore@gmail.com>  Thu, 06 Nov 2014 00:00:00 -0000
+
+ros-indigo-reconfigure-inflation (0.0.5-1trusty) trusty; urgency=high
+
+
+
+ -- Nils Bore <nilsbore@gmail.com>  Tue, 04 Nov 2014 00:00:00 -0000
+
+ros-indigo-reconfigure-inflation (0.0.4-1trusty) trusty; urgency=high
+
+
+
+ -- Nils Bore <nilsbore@gmail.com>  Thu, 30 Oct 2014 00:00:00 -0000
+
+ros-indigo-reconfigure-inflation (0.0.3-1trusty) trusty; urgency=high
+
+
+
+ -- Nils Bore <nilsbore@gmail.com>  Sat, 18 Oct 2014 00:00:00 -0000
+
+ros-indigo-reconfigure-inflation (0.0.2-1trusty) trusty; urgency=high
+
+
+
+ -- Nils Bore <nilsbore@gmail.com>  Mon, 13 Oct 2014 00:00:00 -0000
+
+ros-indigo-reconfigure-inflation (0.0.1-1trusty) trusty; urgency=high
+
+  * Added license files
+  * Wrong URL
+  * [reconfigure_inflation] Preparing cmake and package file for release
+  * renamed package to get rid of the scitos prefix.
+    None of the other packages seems to use this so no refactoring needed.
+  * Contributors: Christian Dondrup
+
+ -- Nils Bore <nilsbore@gmail.com>  Tue, 23 Sep 2014 00:00:00 -0000
+
+
