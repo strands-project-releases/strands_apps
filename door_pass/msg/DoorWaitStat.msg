@@ -1,4 +1,0 @@
-string topological_map_name
-string waypoint
-bool opened
-float64 wait_time
