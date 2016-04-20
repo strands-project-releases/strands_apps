@@ -1,0 +1,12 @@
+Source: ros-indigo-door-pass
+Section: misc
+Priority: extra
+Maintainer: gestom <tkrajnik@lincoln.ac.uk>
+Build-Depends: debhelper (>= 9.0.0), ros-indigo-actionlib, ros-indigo-actionlib-msgs, ros-indigo-catkin, ros-indigo-geometry-msgs, ros-indigo-message-generation, ros-indigo-mongodb-store, ros-indigo-move-base-msgs, ros-indigo-nav-msgs, ros-indigo-roscpp, ros-indigo-rospy, ros-indigo-sensor-msgs, ros-indigo-std-msgs, ros-indigo-tf
+Homepage: https://github.com/strands-project/strands_apps
+Standards-Version: 3.9.2
+
+Package: ros-indigo-door-pass
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-indigo-actionlib, ros-indigo-actionlib-msgs, ros-indigo-geometry-msgs, ros-indigo-mary-tts, ros-indigo-message-runtime, ros-indigo-mongodb-store, ros-indigo-move-base-msgs, ros-indigo-nav-msgs, ros-indigo-roscpp, ros-indigo-rospy, ros-indigo-sensor-msgs, ros-indigo-std-msgs, ros-indigo-tf
+Description: Used to navigate through narrow doors
