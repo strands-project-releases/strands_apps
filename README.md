@@ -1,3 +1,37 @@
+## strands_apps (indigo) - 0.2.3-0
+
+The packages in the `strands_apps` repository were released into the `indigo` distro by running `/usr/bin/bloom-release --non-interactive -t indigo -r indigo strands_apps` on `Fri, 29 Apr 2016 13:26:03 -0000`
+
+These packages were released:
+- `door_pass`
+- `marathon_reporter`
+- `odometry_mileage`
+- `pose_extractor`
+- `ramp_climb`
+- `reconfigure_inflation`
+- `roslaunch_axserver`
+- `state_checker`
+- `static_transform_manager`
+- `strands_apps`
+- `strands_emails`
+- `topic_republisher`
+- `watchdog_node`
+
+Version of package(s) in repository `strands_apps`:
+- upstream repository: https://github.com/strands-project/strands_apps.git
+- release repository: https://github.com/strands-project-releases/strands_apps.git
+- rosdistro version: `0.2.2-0`
+- old version: `0.2.2-0`
+- new version: `0.2.3-0`
+
+Versions of tools used:
+- bloom version: `0.5.20`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.11.2`
+- rosdistro version: `0.4.2`
+- vcstools version: `0.1.37`
+
+
 ## strands_apps (indigo) - 0.2.2-0
 
 The packages in the `strands_apps` repository were released into the `indigo` distro by running `/usr/bin/bloom-release --non-interactive -t indigo -r indigo strands_apps` on `Wed, 20 Apr 2016 13:59:27 -0000`
