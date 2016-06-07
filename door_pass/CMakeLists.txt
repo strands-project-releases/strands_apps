@@ -32,11 +32,17 @@ add_message_files(
   DoorWaitStat.msg
 )
 
+add_service_files(
+  FILES
+  PredictDoorState.srv
+)
+
 add_action_files(
     DIRECTORY action 
     FILES 
     DoorCheck.action
     DoorWait.action
+    BuildPrediction.action
 )
 
 generate_messages(
