@@ -1,0 +1,12 @@
+Source: ros-kinetic-topic-republisher
+Section: misc
+Priority: extra
+Maintainer: Nick Hawes <n.a.hawes@cs.bham.ac.uk>
+Build-Depends: debhelper (>= 9.0.0), ros-kinetic-catkin, ros-kinetic-geometry-msgs, ros-kinetic-rospy, ros-kinetic-sensor-msgs
+Homepage: https://github.com/strands-project/scitos_apps
+Standards-Version: 3.9.2
+
+Package: ros-kinetic-topic-republisher
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-kinetic-geometry-msgs, ros-kinetic-rospy, ros-kinetic-sensor-msgs
+Description: The topic_republisher package
