@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package>
   <name>marathon_reporter</name>
-  <version>0.2.5</version>
+  <version>0.2.6</version>
   <description>The marathon_reporter package sends mileage and runtime statistics to the STRANDS Robot Marathon server.</description>
 
   <maintainer email="cburbridge@gmail.com">Chris Burbridge</maintainer>
@@ -22,7 +22,7 @@
   <run_depend>std_msgs</run_depend>
   <run_depend>message_runtime</run_depend>
 
-  <run_depend>python-strands-requests</run_depend>
+  <run_depend>python-requests</run_depend>
   <run_depend>python-yaml</run_depend>
 
 
