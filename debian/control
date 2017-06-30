@@ -1,0 +1,12 @@
+Source: ros-kinetic-topological-roslaunch
+Section: misc
+Priority: extra
+Maintainer: Nick Hawes <n.a.hawes@cs.bham.ac.uk>
+Build-Depends: debhelper (>= 9.0.0), ros-kinetic-catkin, ros-kinetic-roslaunch-axserver, ros-kinetic-rospy, ros-kinetic-std-msgs
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-kinetic-topological-roslaunch
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-kinetic-actionlib, ros-kinetic-actionlib-msgs, ros-kinetic-roslaunch-axserver, ros-kinetic-rospy, ros-kinetic-std-msgs
+Description: A package to trigger roslaunch_axserver at topological nodes.
