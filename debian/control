@@ -1,0 +1,12 @@
+Source: ros-kinetic-static-transform-manager
+Section: misc
+Priority: extra
+Maintainer: Chris Burbridge <cburbridge@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-kinetic-catkin, ros-kinetic-geometry-msgs, ros-kinetic-message-generation, ros-kinetic-rospy, ros-kinetic-std-msgs, ros-kinetic-tf
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-kinetic-static-transform-manager
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-kinetic-geometry-msgs, ros-kinetic-rospy, ros-kinetic-std-msgs, ros-kinetic-tf
+Description: The static_transform_manager package provides a node providing services to set static transformations, similar to starting a tf/static_transform_publisher node.
