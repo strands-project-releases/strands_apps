@@ -1,0 +1,12 @@
+Source: ros-kinetic-marathon-reporter
+Section: misc
+Priority: extra
+Maintainer: Chris Burbridge <cburbridge@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-kinetic-catkin, ros-kinetic-message-generation, ros-kinetic-mongodb-store, ros-kinetic-nav-msgs, ros-kinetic-rospy, ros-kinetic-std-msgs
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-kinetic-marathon-reporter
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, python-requests, python-yaml, ros-kinetic-message-runtime, ros-kinetic-mongodb-store, ros-kinetic-nav-msgs, ros-kinetic-rospy, ros-kinetic-std-msgs
+Description: The marathon_reporter package sends mileage and runtime statistics to the STRANDS Robot Marathon server.
