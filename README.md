@@ -1,3 +1,40 @@
+## strands_apps (kinetic) - 0.2.6-0
+
+The packages in the `strands_apps` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release -n -t kinetic -r kinetic strands_apps` on `Fri, 30 Jun 2017 09:19:46 -0000`
+
+These packages were released:
+- `door_pass`
+- `marathon_reporter`
+- `odometry_mileage`
+- `pose_extractor`
+- `ramp_climb`
+- `reconfigure_inflation`
+- `roslaunch_axserver`
+- `state_checker`
+- `static_transform_manager`
+- `strands_apps`
+- `strands_emails`
+- `topic_republisher`
+- `topological_roslaunch`
+- `watchdog_node`
+
+Version of package(s) in repository `strands_apps`:
+
+- upstream repository: https://github.com/strands-project/strands_apps.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.2.6-0`
+
+Versions of tools used:
+
+- bloom version: `0.5.26`
+- catkin_pkg version: `0.3.5`
+- rosdep version: `0.11.5`
+- rosdistro version: `0.6.2`
+- vcstools version: `0.1.39`
+
+
 ## strands_apps (indigo) - 0.2.5-0
 
 The packages in the `strands_apps` repository were released into the `indigo` distro by running `/usr/bin/bloom-release --non-interactive -t indigo -r indigo strands_apps` on `Wed, 02 Nov 2016 10:46:08 -0000`
