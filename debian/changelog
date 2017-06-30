@@ -1,0 +1,189 @@
+ros-kinetic-watchdog-node (0.2.6-0xenial) xenial; urgency=high
+
+
+
+ -- Chris Burbridge <cburbridge@gmail.com>  Thu, 29 Jun 2017 23:00:00 -0000
+
+ros-kinetic-watchdog-node (0.2.5-0xenial) xenial; urgency=high
+
+  * return check to 1 min
+  * Added a rate watchdog, also with interval check option
+  * Contributors: Nick Hawes
+
+ -- Chris Burbridge <cburbridge@gmail.com>  Wed, 02 Nov 2016 00:00:00 -0000
+
+ros-kinetic-watchdog-node (0.2.4-0xenial) xenial; urgency=high
+
+  * Added an new monitor which only subscribes to a topic at an interval to perform checks.
+    This closes #53 <https://github.com/strands-project/strands_apps/issues/53>.
+  * Contributors: Nick Hawes
+
+ -- Chris Burbridge <cburbridge@gmail.com>  Mon, 06 Jun 2016 23:00:00 -0000
+
+ros-kinetic-watchdog-node (0.2.3-0xenial) xenial; urgency=high
+
+
+
+ -- Chris Burbridge <cburbridge@gmail.com>  Thu, 28 Apr 2016 23:00:00 -0000
+
+ros-kinetic-watchdog-node (0.2.2-0xenial) xenial; urgency=high
+
+
+
+ -- Chris Burbridge <cburbridge@gmail.com>  Tue, 19 Apr 2016 23:00:00 -0000
+
+ros-kinetic-watchdog-node (0.2.1-0xenial) xenial; urgency=high
+
+
+
+ -- Chris Burbridge <cburbridge@gmail.com>  Mon, 18 Apr 2016 23:00:00 -0000
+
+ros-kinetic-watchdog-node (0.2.0-0xenial) xenial; urgency=high
+
+  * 0.1.12
+  * updated changelogs
+  * Contributors: Jenkins
+
+ -- Chris Burbridge <cburbridge@gmail.com>  Mon, 18 Apr 2016 23:00:00 -0000
+
+ros-kinetic-watchdog-node (0.1.12-0xenial) xenial; urgency=high
+
+
+
+ -- Chris Burbridge <cburbridge@gmail.com>  Mon, 18 Apr 2016 23:00:00 -0000
+
+ros-kinetic-watchdog-node (0.1.11-0xenial) xenial; urgency=high
+
+
+
+ -- Chris Burbridge <cburbridge@gmail.com>  Wed, 13 Apr 2016 23:00:00 -0000
+
+ros-kinetic-watchdog-node (0.1.10-0xenial) xenial; urgency=high
+
+  * Fix renamed install target.
+  * Rename package to watchdog_node.
+  * Contributors: Chris Burbridge
+
+ -- Chris Burbridge <cburbridge@gmail.com>  Mon, 08 Jun 2015 23:00:00 -0000
+
+ros-kinetic-watchdog-node (0.1.9-0xenial) xenial; urgency=high
+
+
+
+ -- Chris Burbridge <cburbridge@gmail.com>  Mon, 27 Apr 2015 23:00:00 -0000
+
+ros-kinetic-watchdog-node (0.1.8-0xenial) xenial; urgency=high
+
+
+
+ -- Chris Burbridge <cburbridge@gmail.com>  Tue, 21 Apr 2015 23:00:00 -0000
+
+ros-kinetic-watchdog-node (0.1.7-0xenial) xenial; urgency=high
+
+
+
+ -- Chris Burbridge <cburbridge@gmail.com>  Thu, 16 Apr 2015 23:00:00 -0000
+
+ros-kinetic-watchdog-node (0.1.6-0xenial) xenial; urgency=high
+
+
+
+ -- Chris Burbridge <cburbridge@gmail.com>  Sat, 11 Apr 2015 23:00:00 -0000
+
+ros-kinetic-watchdog-node (0.1.5-0xenial) xenial; urgency=high
+
+
+
+ -- Chris Burbridge <cburbridge@gmail.com>  Mon, 30 Mar 2015 23:00:00 -0000
+
+ros-kinetic-watchdog-node (0.1.4-0xenial) xenial; urgency=high
+
+
+
+ -- Chris Burbridge <cburbridge@gmail.com>  Thu, 19 Mar 2015 00:00:00 -0000
+
+ros-kinetic-watchdog-node (0.1.3-0xenial) xenial; urgency=high
+
+
+
+ -- Chris Burbridge <cburbridge@gmail.com>  Mon, 16 Mar 2015 00:00:00 -0000
+
+ros-kinetic-watchdog-node (0.1.2-0xenial) xenial; urgency=high
+
+
+
+ -- Chris Burbridge <cburbridge@gmail.com>  Thu, 20 Nov 2014 18:04:00 -0000
+
+ros-kinetic-watchdog-node (0.1.1-0xenial) xenial; urgency=high
+
+
+
+ -- Chris Burbridge <cburbridge@gmail.com>  Thu, 20 Nov 2014 17:23:00 -0000
+
+ros-kinetic-watchdog-node (0.1.0-0xenial) xenial; urgency=high
+
+
+
+ -- Chris Burbridge <cburbridge@gmail.com>  Wed, 19 Nov 2014 00:00:00 -0000
+
+ros-kinetic-watchdog-node (0.0.10-0xenial) xenial; urgency=high
+
+
+
+ -- Chris Burbridge <cburbridge@gmail.com>  Tue, 18 Nov 2014 00:00:00 -0000
+
+ros-kinetic-watchdog-node (0.0.9-0xenial) xenial; urgency=high
+
+
+
+ -- Chris Burbridge <cburbridge@gmail.com>  Sun, 09 Nov 2014 00:00:00 -0000
+
+ros-kinetic-watchdog-node (0.0.8-0xenial) xenial; urgency=high
+
+
+
+ -- Chris Burbridge <cburbridge@gmail.com>  Sat, 08 Nov 2014 00:00:00 -0000
+
+ros-kinetic-watchdog-node (0.0.7-0xenial) xenial; urgency=high
+
+
+
+ -- Chris Burbridge <cburbridge@gmail.com>  Thu, 06 Nov 2014 15:28:00 -0000
+
+ros-kinetic-watchdog-node (0.0.6-0xenial) xenial; urgency=high
+
+
+
+ -- Chris Burbridge <cburbridge@gmail.com>  Thu, 06 Nov 2014 10:21:00 -0000
+
+ros-kinetic-watchdog-node (0.0.5-0xenial) xenial; urgency=high
+
+
+
+ -- Chris Burbridge <cburbridge@gmail.com>  Tue, 04 Nov 2014 00:00:00 -0000
+
+ros-kinetic-watchdog-node (0.0.4-0xenial) xenial; urgency=high
+
+
+
+ -- Chris Burbridge <cburbridge@gmail.com>  Thu, 30 Oct 2014 00:00:00 -0000
+
+ros-kinetic-watchdog-node (0.0.3-0xenial) xenial; urgency=high
+
+
+
+ -- Chris Burbridge <cburbridge@gmail.com>  Fri, 17 Oct 2014 23:00:00 -0000
+
+ros-kinetic-watchdog-node (0.0.2-0xenial) xenial; urgency=high
+
+
+
+ -- Chris Burbridge <cburbridge@gmail.com>  Sun, 12 Oct 2014 23:00:00 -0000
+
+ros-kinetic-watchdog-node (0.0.1-0xenial) xenial; urgency=high
+
+
+
+ -- Chris Burbridge <cburbridge@gmail.com>  Mon, 22 Sep 2014 23:00:00 -0000
+
+

@@ -1,0 +1,12 @@
+Source: ros-kinetic-watchdog-node
+Section: misc
+Priority: extra
+Maintainer: Chris Burbridge <cburbridge@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-kinetic-catkin, ros-kinetic-rosnode, ros-kinetic-rospy, ros-kinetic-rostopic
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-kinetic-watchdog-node
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-kinetic-rosnode, ros-kinetic-rospy, ros-kinetic-rostopic
+Description: The watchdog_node package provides configurable watchdogs that trigger configurable actions.
