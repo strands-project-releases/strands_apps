@@ -1,0 +1,12 @@
+Source: ros-kinetic-door-pass
+Section: misc
+Priority: extra
+Maintainer: gestom <tkrajnik@lincoln.ac.uk>
+Build-Depends: debhelper (>= 9.0.0), ros-kinetic-actionlib, ros-kinetic-actionlib-msgs, ros-kinetic-catkin, ros-kinetic-geometry-msgs, ros-kinetic-message-generation, ros-kinetic-mongodb-store, ros-kinetic-move-base-msgs, ros-kinetic-nav-msgs, ros-kinetic-roscpp, ros-kinetic-rospy, ros-kinetic-sensor-msgs, ros-kinetic-std-msgs, ros-kinetic-tf
+Homepage: https://github.com/strands-project/strands_apps
+Standards-Version: 3.9.2
+
+Package: ros-kinetic-door-pass
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-kinetic-actionlib, ros-kinetic-actionlib-msgs, ros-kinetic-geometry-msgs, ros-kinetic-mary-tts, ros-kinetic-message-runtime, ros-kinetic-mongodb-store, ros-kinetic-move-base-msgs, ros-kinetic-nav-msgs, ros-kinetic-robot-talk, ros-kinetic-roscpp, ros-kinetic-rospy, ros-kinetic-sensor-msgs, ros-kinetic-std-msgs, ros-kinetic-tf
+Description: Used to navigate through narrow doors
