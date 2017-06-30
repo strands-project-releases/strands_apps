@@ -1,0 +1,12 @@
+Source: ros-kinetic-strands-apps
+Section: misc
+Priority: extra
+Maintainer: Christian Dondrup <cdondrup@lincoln.ac.uk>
+Build-Depends: debhelper (>= 9.0.0), ros-kinetic-catkin
+Homepage: http://github.com/strands-project/strands_apps
+Standards-Version: 3.9.2
+
+Package: ros-kinetic-strands-apps
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-kinetic-door-pass, ros-kinetic-marathon-reporter, ros-kinetic-odometry-mileage, ros-kinetic-pose-extractor, ros-kinetic-ramp-climb, ros-kinetic-reconfigure-inflation, ros-kinetic-roslaunch-axserver, ros-kinetic-state-checker, ros-kinetic-strands-emails, ros-kinetic-topic-republisher
+Description: The strands_apps metapackage
