@@ -1,0 +1,12 @@
+Source: ros-melodic-static-transform-manager
+Section: misc
+Priority: optional
+Maintainer: Chris Burbridge <cburbridge@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-melodic-catkin, ros-melodic-geometry-msgs, ros-melodic-message-generation, ros-melodic-rospy, ros-melodic-std-msgs, ros-melodic-tf
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-melodic-static-transform-manager
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-melodic-geometry-msgs, ros-melodic-rospy, ros-melodic-std-msgs, ros-melodic-tf
+Description: The static_transform_manager package provides a node providing services to set static transformations, similar to starting a tf/static_transform_publisher node.
