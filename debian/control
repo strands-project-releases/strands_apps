@@ -1,0 +1,12 @@
+Source: ros-melodic-strands-apps
+Section: misc
+Priority: optional
+Maintainer: Christian Dondrup <cdondrup@lincoln.ac.uk>
+Build-Depends: debhelper (>= 9.0.0), ros-melodic-catkin
+Homepage: http://github.com/strands-project/strands_apps
+Standards-Version: 3.9.2
+
+Package: ros-melodic-strands-apps
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-melodic-door-pass, ros-melodic-marathon-reporter, ros-melodic-odometry-mileage, ros-melodic-pose-extractor, ros-melodic-ramp-climb, ros-melodic-reconfigure-inflation, ros-melodic-roslaunch-axserver, ros-melodic-state-checker, ros-melodic-strands-emails, ros-melodic-topic-republisher
+Description: The strands_apps metapackage
