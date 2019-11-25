@@ -1,0 +1,12 @@
+Source: ros-melodic-state-checker
+Section: misc
+Priority: optional
+Maintainer: Rares Ambrus <raambrus@kth.se>
+Build-Depends: debhelper (>= 9.0.0), ros-melodic-catkin, ros-melodic-geometry-msgs, ros-melodic-nav-msgs, ros-melodic-roscpp, ros-melodic-rospy, ros-melodic-std-msgs
+Homepage: https://github.com/strands-project/strands_apps
+Standards-Version: 3.9.2
+
+Package: ros-melodic-state-checker
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-melodic-geometry-msgs, ros-melodic-nav-msgs, ros-melodic-roscpp, ros-melodic-rospy, ros-melodic-std-msgs
+Description: The state_checker package
