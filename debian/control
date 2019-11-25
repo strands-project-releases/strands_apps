@@ -1,0 +1,12 @@
+Source: ros-melodic-ramp-climb
+Section: misc
+Priority: optional
+Maintainer: gestom <tkrajnik@lincoln.ac.uk>
+Build-Depends: debhelper (>= 9.0.0), ros-melodic-actionlib, ros-melodic-actionlib-msgs, ros-melodic-catkin, ros-melodic-geometry-msgs, ros-melodic-message-generation, ros-melodic-move-base-msgs, ros-melodic-roscpp, ros-melodic-rospy, ros-melodic-sensor-msgs, ros-melodic-std-msgs, ros-melodic-tf
+Homepage: https://github.com/strands-project/strands_apps
+Standards-Version: 3.9.2
+
+Package: ros-melodic-ramp-climb
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-melodic-actionlib, ros-melodic-actionlib-msgs, ros-melodic-geometry-msgs, ros-melodic-message-runtime, ros-melodic-move-base-msgs, ros-melodic-roscpp, ros-melodic-rospy, ros-melodic-sensor-msgs, ros-melodic-std-msgs, ros-melodic-tf
+Description: Used to navigate through narrow corridors
