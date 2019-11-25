@@ -1,0 +1,198 @@
+ros-melodic-topological-roslaunch (0.2.6-1bionic) bionic; urgency=high
+
+  * Add warning when no launch information received
+  * Improve teardown/bringup mechanics
+    Can now bring up launch files at a set of nodes, in the same way as with the
+    teardown.
+    The two classes used to do the launching now have a base class to reduce code
+    duplication.
+  * Contributors: Michal Staniaszek
+
+ -- Nick Hawes <n.a.hawes@cs.bham.ac.uk>  Thu, 29 Jun 2017 23:00:00 -0000
+
+ros-melodic-topological-roslaunch (0.2.5-1bionic) bionic; urgency=high
+
+
+
+ -- Nick Hawes <n.a.hawes@cs.bham.ac.uk>  Wed, 02 Nov 2016 00:00:00 -0000
+
+ros-melodic-topological-roslaunch (0.2.4-1bionic) bionic; urgency=high
+
+  * Add node to trigger roslaunch_axserver based on topological node (#55 <https://github.com/strands-project/strands_apps/issues/55>)
+    * Adding skeleton of topological_roslaunch node.
+    * Basic tear-down at node setup working
+    * Updated deps
+    * Fixed setup.py and added install
+  * Contributors: Nick Hawes
+  * Add node to trigger roslaunch_axserver based on topological node (#55 <https://github.com/strands-project/strands_apps/issues/55>)
+    * Adding skeleton of topological_roslaunch node.
+    * Basic tear-down at node setup working
+    * Updated deps
+    * Fixed setup.py and added install
+  * Contributors: Nick Hawes
+
+ -- Nick Hawes <n.a.hawes@cs.bham.ac.uk>  Mon, 06 Jun 2016 23:00:00 -0000
+
+ros-melodic-topological-roslaunch (0.2.3-1bionic) bionic; urgency=high
+
+
+
+ -- Nick Hawes <n.a.hawes@cs.bham.ac.uk>  Thu, 28 Apr 2016 23:00:00 -0000
+
+ros-melodic-topological-roslaunch (0.2.2-1bionic) bionic; urgency=high
+
+
+
+ -- Nick Hawes <n.a.hawes@cs.bham.ac.uk>  Tue, 19 Apr 2016 23:00:00 -0000
+
+ros-melodic-topological-roslaunch (0.2.1-1bionic) bionic; urgency=high
+
+
+
+ -- Nick Hawes <n.a.hawes@cs.bham.ac.uk>  Tue, 19 Apr 2016 07:30:51 -0000
+
+ros-melodic-topological-roslaunch (0.2.0-1bionic) bionic; urgency=high
+
+
+
+ -- Nick Hawes <n.a.hawes@cs.bham.ac.uk>  Tue, 19 Apr 2016 07:30:22 -0000
+
+ros-melodic-topological-roslaunch (0.1.12-1bionic) bionic; urgency=high
+
+
+
+ -- Nick Hawes <n.a.hawes@cs.bham.ac.uk>  Tue, 19 Apr 2016 07:30:13 -0000
+
+ros-melodic-topological-roslaunch (0.1.11-1bionic) bionic; urgency=high
+
+
+
+ -- Nick Hawes <n.a.hawes@cs.bham.ac.uk>  Wed, 13 Apr 2016 23:00:00 -0000
+
+ros-melodic-topological-roslaunch (0.1.10-1bionic) bionic; urgency=high
+
+
+
+ -- Nick Hawes <n.a.hawes@cs.bham.ac.uk>  Mon, 08 Jun 2015 23:00:00 -0000
+
+ros-melodic-topological-roslaunch (0.1.9-1bionic) bionic; urgency=high
+
+
+
+ -- Nick Hawes <n.a.hawes@cs.bham.ac.uk>  Mon, 27 Apr 2015 23:00:00 -0000
+
+ros-melodic-topological-roslaunch (0.1.8-1bionic) bionic; urgency=high
+
+
+
+ -- Nick Hawes <n.a.hawes@cs.bham.ac.uk>  Tue, 21 Apr 2015 23:00:00 -0000
+
+ros-melodic-topological-roslaunch (0.1.7-1bionic) bionic; urgency=high
+
+
+
+ -- Nick Hawes <n.a.hawes@cs.bham.ac.uk>  Thu, 16 Apr 2015 23:00:00 -0000
+
+ros-melodic-topological-roslaunch (0.1.6-1bionic) bionic; urgency=high
+
+
+
+ -- Nick Hawes <n.a.hawes@cs.bham.ac.uk>  Sat, 11 Apr 2015 23:00:00 -0000
+
+ros-melodic-topological-roslaunch (0.1.5-1bionic) bionic; urgency=high
+
+
+
+ -- Nick Hawes <n.a.hawes@cs.bham.ac.uk>  Mon, 30 Mar 2015 23:00:00 -0000
+
+ros-melodic-topological-roslaunch (0.1.4-1bionic) bionic; urgency=high
+
+
+
+ -- Nick Hawes <n.a.hawes@cs.bham.ac.uk>  Thu, 19 Mar 2015 00:00:00 -0000
+
+ros-melodic-topological-roslaunch (0.1.3-1bionic) bionic; urgency=high
+
+
+
+ -- Nick Hawes <n.a.hawes@cs.bham.ac.uk>  Mon, 16 Mar 2015 00:00:00 -0000
+
+ros-melodic-topological-roslaunch (0.1.2-1bionic) bionic; urgency=high
+
+
+
+ -- Nick Hawes <n.a.hawes@cs.bham.ac.uk>  Thu, 20 Nov 2014 18:04:00 -0000
+
+ros-melodic-topological-roslaunch (0.1.1-1bionic) bionic; urgency=high
+
+
+
+ -- Nick Hawes <n.a.hawes@cs.bham.ac.uk>  Thu, 20 Nov 2014 17:23:00 -0000
+
+ros-melodic-topological-roslaunch (0.1.0-1bionic) bionic; urgency=high
+
+
+
+ -- Nick Hawes <n.a.hawes@cs.bham.ac.uk>  Wed, 19 Nov 2014 00:00:00 -0000
+
+ros-melodic-topological-roslaunch (0.0.10-1bionic) bionic; urgency=high
+
+
+
+ -- Nick Hawes <n.a.hawes@cs.bham.ac.uk>  Tue, 18 Nov 2014 00:00:00 -0000
+
+ros-melodic-topological-roslaunch (0.0.9-1bionic) bionic; urgency=high
+
+
+
+ -- Nick Hawes <n.a.hawes@cs.bham.ac.uk>  Sun, 09 Nov 2014 00:00:00 -0000
+
+ros-melodic-topological-roslaunch (0.0.8-1bionic) bionic; urgency=high
+
+
+
+ -- Nick Hawes <n.a.hawes@cs.bham.ac.uk>  Sat, 08 Nov 2014 00:00:00 -0000
+
+ros-melodic-topological-roslaunch (0.0.7-1bionic) bionic; urgency=high
+
+
+
+ -- Nick Hawes <n.a.hawes@cs.bham.ac.uk>  Thu, 06 Nov 2014 15:28:00 -0000
+
+ros-melodic-topological-roslaunch (0.0.6-1bionic) bionic; urgency=high
+
+
+
+ -- Nick Hawes <n.a.hawes@cs.bham.ac.uk>  Thu, 06 Nov 2014 10:21:00 -0000
+
+ros-melodic-topological-roslaunch (0.0.5-1bionic) bionic; urgency=high
+
+
+
+ -- Nick Hawes <n.a.hawes@cs.bham.ac.uk>  Tue, 04 Nov 2014 00:00:00 -0000
+
+ros-melodic-topological-roslaunch (0.0.4-1bionic) bionic; urgency=high
+
+
+
+ -- Nick Hawes <n.a.hawes@cs.bham.ac.uk>  Thu, 30 Oct 2014 00:00:00 -0000
+
+ros-melodic-topological-roslaunch (0.0.3-1bionic) bionic; urgency=high
+
+
+
+ -- Nick Hawes <n.a.hawes@cs.bham.ac.uk>  Fri, 17 Oct 2014 23:00:00 -0000
+
+ros-melodic-topological-roslaunch (0.0.2-1bionic) bionic; urgency=high
+
+
+
+ -- Nick Hawes <n.a.hawes@cs.bham.ac.uk>  Sun, 12 Oct 2014 23:00:00 -0000
+
+ros-melodic-topological-roslaunch (0.0.1-1bionic) bionic; urgency=high
+
+
+
+ -- Nick Hawes <n.a.hawes@cs.bham.ac.uk>  Mon, 22 Sep 2014 23:00:00 -0000
+
+
