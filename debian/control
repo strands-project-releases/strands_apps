@@ -1,0 +1,12 @@
+Source: ros-melodic-strands-emails
+Section: misc
+Priority: optional
+Maintainer: Jaime Pulido Fentanes <pulidofentanes@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-melodic-actionlib, ros-melodic-actionlib-msgs, ros-melodic-catkin, ros-melodic-message-generation, ros-melodic-roscpp, ros-melodic-rospy
+Homepage: https://github.com/strands-project/strands_apps
+Standards-Version: 3.9.2
+
+Package: ros-melodic-strands-emails
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-melodic-actionlib, ros-melodic-actionlib-msgs, ros-melodic-roscpp, ros-melodic-rospy
+Description: The strands_emails package
