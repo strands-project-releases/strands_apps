@@ -1,0 +1,12 @@
+Source: ros-melodic-roslaunch-axserver
+Section: misc
+Priority: optional
+Maintainer: Marc Hanheide <marc@hanheide.net>
+Build-Depends: debhelper (>= 9.0.0), ros-melodic-actionlib, ros-melodic-actionlib-msgs, ros-melodic-catkin, ros-melodic-message-generation, ros-melodic-rospy
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-melodic-roslaunch-axserver
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-melodic-actionlib, ros-melodic-actionlib-msgs, ros-melodic-message-runtime, ros-melodic-rospy
+Description: launch other ROS launch files via an actionlib interface
